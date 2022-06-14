@@ -1,4 +1,4 @@
-# Abastecimento
+# Abastecimento <img align="center" alt="Gut-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Gut-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 O programa soluciona uma grande duvida da atualidade, ele vai solicitar ao usuario que digite o valor atual da gasolina e o preço atual do etanol, logo dentro de uma condição, ele retorna se é 
 melhor o usuario abastecer com gasolina ou etanol.
 Para funcionar o programa você precisa emular o codigo no android studio, e utilizar de um android connectado usb ou em ambiente virtual.
